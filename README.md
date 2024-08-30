@@ -127,3 +127,13 @@
 - **Практика (2+ часа):**
   - Презентация и обсуждение финальных проектов
   - Обратная связь и рекомендации по дальнейшему развитию навыков
+
+## Дополнительные материалы:
+
+[https://aide.app/] - Aide: AI-powered programming assistant
+
+[https://www.cursor.com/] - Cursor: AI-powered code editor
+
+[https://zed.dev/blog/zed-ai] - Zed AI: AI-powered code editor
+
+[https://github.com/features/copilot] - Github Copilot: AI-powered code completion tool
