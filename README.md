@@ -138,3 +138,7 @@
 [https://zed.dev/blog/zed-ai] - Zed AI: AI-powered code editor
 
 [https://github.com/features/copilot] - Github Copilot: AI-powered code completion tool
+
+## Разные видео по теме
+
+[https://www.youtube.com/watch?v=oXbqFvAr0tw] - Cursor Composer: Is This How We'll Code Now?
