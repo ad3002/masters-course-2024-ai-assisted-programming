@@ -133,12 +133,24 @@
 
 [https://aide.app/] - Aide: AI-powered programming assistant
 
+[https://github.com/paul-gauthier/aider/blob/main/aider/llm.py] - Aider: AI-powered programming assistant
+
 [https://www.cursor.com/] - Cursor: AI-powered code editor
 
 [https://zed.dev/blog/zed-ai] - Zed AI: AI-powered code editor
 
 [https://github.com/features/copilot] - Github Copilot: AI-powered code completion tool
 
+[https://docs.codestory.ai/] - CodeStory
+
 ## Разные видео по теме
 
 [https://www.youtube.com/watch?v=oXbqFvAr0tw] - Cursor Composer: Is This How We'll Code Now?
+
+[https://www.youtube.com/watch?v=zA-eCGFBXjM] - Build anything with v0 (3D games, interactive apps)
+
+[https://www.youtube.com/watch?v=8N2_iXC16uo] - 18 Months of Building Autonomous AI Agents in 42 Minutes
+
+[https://www.youtube.com/watch?v=KIGBsQqZcNA] - Evaluate prompts in the Anthropic Console
+
+[https://www.youtube.com/watch?v=kDcM_xwmP3Q] - I can't believe we coded an app with AI in 67 mins (V0, Cursor AI, Replit, Claude AI)
