@@ -143,6 +143,8 @@
 
 [https://docs.codestory.ai/] - CodeStory
 
+[https://github.com/plandex-ai/plandex/tree/main], [https://docs.plandex.ai/intro/] - AI driven development in your terminal.
+
 ## Разные видео по теме
 
 [https://www.youtube.com/watch?v=oXbqFvAr0tw] - Cursor Composer: Is This How We'll Code Now?
@@ -154,3 +156,9 @@
 [https://www.youtube.com/watch?v=KIGBsQqZcNA] - Evaluate prompts in the Anthropic Console
 
 [https://www.youtube.com/watch?v=kDcM_xwmP3Q] - I can't believe we coded an app with AI in 67 mins (V0, Cursor AI, Replit, Claude AI)
+
+[https://www.youtube.com/watch?v=XC3RdivjzO0&ab_channel=DevelopersDigest] - Replit Agent: From Idea to Live Web App in Minutes
+
+[https://www.youtube.com/watch?v=Q4XjQfjuRt4&ab_channel=MckayWrigley] - Build a basic Airbnb app with Cursor AI tricks
+
+
