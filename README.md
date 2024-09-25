@@ -170,6 +170,8 @@
 
 [https://www.warp.dev/] - Your terminal, reimagened
 
+[https://amnezia.org/en] - Your own private VPN 
+
 ## Разные видео по теме
 
 [https://www.youtube.com/watch?v=oXbqFvAr0tw] - Cursor Composer: Is This How We'll Code Now?
