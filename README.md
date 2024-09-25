@@ -168,6 +168,8 @@
 
 [https://github.com/plandex-ai/plandex/tree/main], [https://docs.plandex.ai/intro/] - AI driven development in your terminal.
 
+[https://www.warp.dev/] - Your terminal, reimagened
+
 ## Разные видео по теме
 
 [https://www.youtube.com/watch?v=oXbqFvAr0tw] - Cursor Composer: Is This How We'll Code Now?
