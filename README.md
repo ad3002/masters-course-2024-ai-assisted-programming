@@ -170,7 +170,17 @@
 
 [https://www.warp.dev/] - Your terminal, reimagened
 
+[https://www.tabnine.com/] - The AI code assistant that you control
+
+[https://codegpt.co/] - AI Coding for Developers
+
+[https://www.blackbox.ai/] - Ask Blackbox AI Anything
+
 [https://amnezia.org/en] - Your own private VPN 
+
+## How to:
+
+[https://www.youtube.com/watch?v=4yOgunZqJWA&t=8s&ab_channel=aglabx] - Установка подсистемы Linux на Windows 10
 
 ## Разные видео по теме
 
