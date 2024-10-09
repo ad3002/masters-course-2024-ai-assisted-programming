@@ -180,6 +180,10 @@
 
 [https://amnezia.org/en] - Your own private VPN 
 
+## Визуализация сложности:
+
+[https://github.com/pahen/madge]
+
 ## How to:
 
 [https://www.youtube.com/watch?v=4yOgunZqJWA&t=8s&ab_channel=aglabx] - Установка подсистемы Linux на Windows 10
