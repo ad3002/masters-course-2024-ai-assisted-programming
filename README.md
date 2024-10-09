@@ -176,6 +176,8 @@
 
 [https://www.blackbox.ai/] - Ask Blackbox AI Anything
 
+[https://bolt.new/] - Bolt
+
 [https://amnezia.org/en] - Your own private VPN 
 
 ## How to:
