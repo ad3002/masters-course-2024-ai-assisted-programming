@@ -156,6 +156,8 @@
 
 [https://aide.app/] - Aide: AI-powered programming assistant
 
+[https://aider.chat/] - Aider is AI pair programming in your terminal
+
 [https://github.com/paul-gauthier/aider/blob/main/aider/llm.py] - Aider: AI-powered programming assistant
 
 [https://www.cursor.com/] - Cursor: AI-powered code editor
