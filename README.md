@@ -178,6 +178,8 @@
 
 [https://codegpt.co/] - AI Coding for Developers
 
+[https://stackblitz.com/] - stackblitz
+
 [https://www.blackbox.ai/] - Ask Blackbox AI Anything
 
 [https://bolt.new/] - Bolt
