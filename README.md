@@ -164,6 +164,8 @@
 
 [https://zed.dev/blog/zed-ai] - Zed AI: AI-powered code editor
 
+[https://github.com/zed-industries/zed/tree/main/assets/prompts] - Zed's prompts
+
 [https://github.com/features/copilot] - Github Copilot: AI-powered code completion tool
 
 [https://docs.codestory.ai/] - CodeStory
@@ -179,6 +181,10 @@
 [https://www.blackbox.ai/] - Ask Blackbox AI Anything
 
 [https://bolt.new/] - Bolt
+
+[https://www.relume.io/] - websites with AI
+
+[https://v0.dev/chat] - v0
 
 [https://amnezia.org/en] - Your own private VPN 
 
@@ -205,5 +211,12 @@
 [https://www.youtube.com/watch?v=XC3RdivjzO0&ab_channel=DevelopersDigest] - Replit Agent: From Idea to Live Web App in Minutes
 
 [https://www.youtube.com/watch?v=Q4XjQfjuRt4&ab_channel=MckayWrigley] - Build a basic Airbnb app with Cursor AI tricks
+
+## Полезные фрагменты для идей
+
+[https://reactflow.dev/] - ReactFlow for app with graphs
+[https://www.pixellab.ai/] - PixelLab
+[https://www.recraft.ai/mockup-generator] - MockUp
+
 
 
