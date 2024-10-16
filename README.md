@@ -215,8 +215,14 @@
 ## Полезные фрагменты для идей
 
 [https://reactflow.dev/] - ReactFlow for app with graphs
+
 [https://www.pixellab.ai/] - PixelLab
+
 [https://www.recraft.ai/mockup-generator] - MockUp
+
+[https://procreate.com/] - Art is for everyone
+
+
 
 
 
