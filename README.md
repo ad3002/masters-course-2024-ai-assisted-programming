@@ -190,6 +190,8 @@
 
 [https://amnezia.org/en] - Your own private VPN 
 
+[https://www.code-maestro.com/] - Code Maestro, gamedev specic AI-coding assist
+
 ## Визуализация сложности:
 
 [https://github.com/pahen/madge]
