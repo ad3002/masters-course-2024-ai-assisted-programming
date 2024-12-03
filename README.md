@@ -192,6 +192,8 @@
 
 [https://www.code-maestro.com/] - Code Maestro, gamedev specic AI-coding assist
 
+[https://devin.ai/] - Devin
+
 ## Визуализация сложности:
 
 [https://github.com/pahen/madge]
