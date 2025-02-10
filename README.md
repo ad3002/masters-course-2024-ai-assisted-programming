@@ -184,6 +184,8 @@
 
 [https://bolt.new/] - Bolt
 
+[https://github.com/stackblitz-labs/bolt.diy] - Bolt DIY
+
 [https://www.relume.io/] - websites with AI
 
 [https://v0.dev/chat] - v0
