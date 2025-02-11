@@ -230,6 +230,8 @@
 
 [https://procreate.com/] - Art is for everyone
 
+[https://x.com/karpathy/status/1886192184808149383] - Andrej Karpathy
+
 
 
 
